@@ -3,6 +3,9 @@
 
 Magic 8-Ball for Seeeduino Film &amp; OLED Frame
 
+![Components](https://github.com/ibuildrockets/8-Ball/raw/master/images/4.jpg)
+![Components](https://github.com/ibuildrockets/8-Ball/raw/master/images/5.jpg)
+
 I've had a Seeeduino Film and the accompanying OLED Frame for a while and figured it was time to put it to use, thus the Magic 8-Ball was created!
 
 Two versions of the code is available - 
