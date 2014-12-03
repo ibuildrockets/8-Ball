@@ -11,7 +11,7 @@ Magic_8_Ball.ino - This utilises the 'sleep' button on the film itself to 'ask' 
 
 Magic_8_Ball_LED_BTN.ino - The 'ask' button is now located off-board as well as a status light. I've used an illuminated button. It glows RED when ready to ask and goes off while showing the answer.
 
-![alt tag](https://raw.github.com/ibuildrockets/8-Ball/images/1.jpg)
+![Image of Magic 8-Ball ready for insertion into box](https://raw.githubusercontent.com/ibuildrockets/8-Ball/master/images/1.jpg)
 
 
 The 8-Ball phrase selection code was utilised from this Instructible http://www.instructables.com/id/Digital-Magic-Eight-Ball/ under CC-BY-SA ( http://creativecommons.org/licenses/by-sa/2.5/ )
